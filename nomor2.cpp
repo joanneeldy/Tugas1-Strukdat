@@ -5,7 +5,7 @@ int main()
 {
     int angka;
 
-    cout << "Masukkan limit maksimum untuk angka ganjil yang akan di-print: ";
+    cout << "Masukkan limit maksimum untuk deret angka: ";
     cin >> angka;
 
     cout << "\nDeret angka ganjil lebih kecil dari " << angka << " yaitu:\n";
