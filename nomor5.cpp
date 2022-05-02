@@ -11,6 +11,7 @@ int main()
     };
 
     cout << "Array 2 dimensi: " << endl;
+    
     for(int a = 0; a < 4; ++a){
         cout << endl;
         for(int b = 0; b < 3; ++b){

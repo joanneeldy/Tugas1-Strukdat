@@ -7,6 +7,8 @@ int main()
 
     cout << "Masukkan jumlah baris: ";
     cin >> baris;
+    
+    cout << "\nDeret angka:\n";
 
     for(int a = baris; a >= 1; --a)
     {
